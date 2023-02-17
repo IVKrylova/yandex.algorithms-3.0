@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\stack/3b-15-resettlement.js"
+            "program": "${workspaceFolder}\\warm-up/3b-10-boring-lecture.js"
         }
     ]
 }
