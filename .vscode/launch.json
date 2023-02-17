@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\stack/3b-13-postfix-entry.js"
+            "program": "${workspaceFolder}\\stack/3b-14-sorting-of-wagons.js"
         }
     ]
 }
