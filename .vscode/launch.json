@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\queues/3b-17-drinking-game.js"
+            "program": "${workspaceFolder}\\queues/3b-18-deque.js"
         }
     ]
 }
