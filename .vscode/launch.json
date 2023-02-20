@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\queues/3b-19-heap.js"
+            "program": "${workspaceFolder}\\queues/3b-20-heapsort.js"
         }
     ]
 }
