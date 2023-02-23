@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\dynamic-programming-1/3b-21-three-units.js"
+            "program": "${workspaceFolder}\\dynamic-programming-1/3b-22-grig.js"
         }
     ]
 }
