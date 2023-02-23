@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\warm-up/3b-5-good-string.js"
+            "program": "${workspaceFolder}\\dynamic-programming-1/3b-21-three-units.js"
         }
     ]
 }
