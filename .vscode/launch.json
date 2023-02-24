@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\dynamic-programming-1/3b-23-calculator.js"
+            "program": "${workspaceFolder}\\dynamic-programming-1/3b-24-buying-tickets.js"
         }
     ]
 }
