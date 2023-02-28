@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\dynamic-programming-2/3b-26-the-cheapest-way.js"
+            "program": "${workspaceFolder}\\dynamic-programming-2/3b-27-maximum-cost.js"
         }
     ]
 }
