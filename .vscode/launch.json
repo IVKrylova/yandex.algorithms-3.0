@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\graphs-dfs/3b-32-connected-components.js"
+            "program": "${workspaceFolder}\\graphs-dfs/3b-33-cheating.js"
         }
     ]
 }
