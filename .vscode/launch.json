@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\dynamic-programming-2/3b-30-greatest-common-subsequence.js"
+            "program": "${workspaceFolder}\\graphs-dfs/3b-31-dfs.js"
         }
     ]
 }
