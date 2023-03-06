@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\graphs-bfs/3b-36-the-shortest-way.js"
+            "program": "${workspaceFolder}\\graphs-bfs/3b-37-path-in-graph.js"
         }
     ]
 }
