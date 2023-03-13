@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\graphs-bfs/3b-37-path-in-graph.js"
+            "program": "${workspaceFolder}\\/sprint/3b-a-undeground-delivery.js"
         }
     ]
 }
