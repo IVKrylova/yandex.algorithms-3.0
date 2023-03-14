@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\/sprint/3b-a-undeground-delivery.js"
+            "program": "${workspaceFolder}\\/sprint/3b-b-effective-management.js"
         }
     ]
 }
