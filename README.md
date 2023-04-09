@@ -1,4 +1,5 @@
 # Тренировки по алгоритмам 3.0 от Яндекса
+[yandex-trainy-3.0.pdf](https://github.com/IVKrylova/yandex.algorithms-3.0/files/11186073/yandex-trainy-3.0.pdf)
 
 ## Темы
 * Стеки
